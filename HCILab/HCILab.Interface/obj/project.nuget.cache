@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P+RSunlZQ/PTvZ+AzVxI92mxo8AuzfdBsHYPz6ukKSWD/BhqsX6PC3RDwE2kgyYnIjLXyUKV0lrllIURmCToyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Win 10\\Desktop\\HCILab\\HCILab\\HCILab.Interface\\HCILab.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win 10\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

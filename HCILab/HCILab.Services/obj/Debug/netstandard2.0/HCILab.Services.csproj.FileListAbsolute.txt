@@ -1,0 +1,9 @@
+C:\Users\Win 10\Desktop\HCILab\HCILab\HCILab.Services\bin\Debug\netstandard2.0\HCILab.Services.deps.json
+C:\Users\Win 10\Desktop\HCILab\HCILab\HCILab.Services\bin\Debug\netstandard2.0\HCILab.Services.dll
+C:\Users\Win 10\Desktop\HCILab\HCILab\HCILab.Services\obj\Debug\netstandard2.0\HCILab.Services.csprojAssemblyReference.cache
+C:\Users\Win 10\Desktop\HCILab\HCILab\HCILab.Services\obj\Debug\netstandard2.0\HCILab.Services.AssemblyInfoInputs.cache
+C:\Users\Win 10\Desktop\HCILab\HCILab\HCILab.Services\obj\Debug\netstandard2.0\HCILab.Services.AssemblyInfo.cs
+C:\Users\Win 10\Desktop\HCILab\HCILab\HCILab.Services\bin\Debug\netstandard2.0\HCILab.Services.pdb
+C:\Users\Win 10\Desktop\HCILab\HCILab\HCILab.Services\obj\Debug\netstandard2.0\HCILab.Services.dll
+C:\Users\Win 10\Desktop\HCILab\HCILab\HCILab.Services\obj\Debug\netstandard2.0\HCILab.Services.pdb
+C:\Users\Win 10\Desktop\HCILab\HCILab\HCILab.Services\obj\Debug\netstandard2.0\HCILab.Services.csproj.CoreCompileInputs.cache

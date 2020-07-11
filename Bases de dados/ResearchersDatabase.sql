@@ -1,0 +1,15 @@
+﻿CREATE DATABASE HCIlabResearcher;
+USE HCILabResearcher;
+
+CREATE TABLE Researcher(
+	ID_Researcher INTEGER NOT NULL AUTO_INCREMENT,
+    Name VARCHAR(100) NOT NULL,
+	OrcidID VARCHAR(100) NOT NULL,
+    ScopusID VARCHAR(100) NULL,
+	PRIMARY KEY(ID_Researcher)
+);
+
+
+
+
+
